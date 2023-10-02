@@ -1,7 +1,7 @@
 
 # Online Model Adaptation with Feedforward Compensation
 
-This repository introduces the Feedforward and Online Model Adaptation, as illustrated in the following papers:
+This repository contains the code for Feedforward and Online Model Adaptation, as demonstrated in the following papers:
 
 Abulikemu Abuduweili, and Changliu Liu, "[Online Model Adaptation with Feedforward Compensation](https://openreview.net/forum?id=4x2RUQ99sGz)," CoRL, 2023.
 
