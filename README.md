@@ -5,6 +5,7 @@ This repository contains the code for Feedforward and Online Model Adaptation, a
 
 Abulikemu Abuduweili, and Changliu Liu, "[Online Model Adaptation with Feedforward Compensation](https://openreview.net/forum?id=4x2RUQ99sGz)," CoRL, 2023.
 
+Spotlight Video: [here](https://www.youtube.com/watch?v=fB9-UE3Q4bE) 
 
 ## Abstract
 To cope with distribution shifts or non-stationarity in system dynamics, online adaptation algorithms have been introduced to update offline-learned prediction models in real-time. Existing online adaptation methods focus on optimizing the prediction model by utilizing feedback from the latest prediction error. Unfortunately, this feedback-based approach is susceptible to forgetting past information. This work proposes an online adaptation method with feedforward compensation, which uses critical data samples from a memory buffer, instead of the latest samples, to optimize the prediction model. We prove that the proposed approach achieves a smaller error bound compared to previously utilized methods in slow time-varying systems.  Furthermore, our feedforward adaptation technique is capable of estimating an uncertainty bound for predictions. 
